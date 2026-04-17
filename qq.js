@@ -1,8 +1,8 @@
 // script.js
 function copyIP() {
     // Sesuaikan IP dan Port ini
-    const ip = "play.annur2mc.com";
-    const port = "19132";
+    const ip = "basic-1.alstore.space";
+    const port = "25643";
     const fullAddress = ip + ":" + port;
 
     navigator.clipboard.writeText(fullAddress).then(() => {
